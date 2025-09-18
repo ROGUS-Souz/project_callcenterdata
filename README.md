@@ -2,6 +2,9 @@
 
 This project aims to identify the main causes of customer cancellations in a call center company using Python for data manipulation and visualization. Through hypothesis testing and data filtering, it reveals actionable insights to reduce churn rates.
 
+**Key results:** Analyzed customer cancellations using Python-generated charts and dashboards to identify main causes and propose improvement actions, reducing the cancellation rate from 56% to 18%.
+
+
 🚀 Features
 
 Loads and cleans a customer dataset
